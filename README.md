@@ -1,11 +1,17 @@
-### Christopher Lutchmidat
+<h1 align="center"> Hello, I'm Christopher Lutchmidat 👨‍💻 </h1>
+<h3 align="center">  Tech Enthusiast | Web Developer </h3>
+<div align="center">
 
-[![Twitter Badge](https://img.shields.io/badge/-Chris_L-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/webdevchris1)](https://twitter.com/webdevchris1) [![Gmail Badge](https://img.shields.io/badge/-chrislutchmidat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrislutchmidat@gmail.com)](mailto:chrislutchmidat@gmail.com)
+<h2>How To Reach Me</h2>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrislutchmidat@gmail.com)](mailto:chrislutchmidat@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/webdevchris1)](https://twitter.com/webdevchris1)
 
 <!--   [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/) -->
 
 ---
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
+</div>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=danger2123&show_icons=true)
+
 ---
