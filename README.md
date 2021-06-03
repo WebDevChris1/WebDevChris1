@@ -6,6 +6,8 @@
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=danger2123&show_icons=true)
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danger2123&theme=buefy&layout=compact" />
+</a>
 
 ---
