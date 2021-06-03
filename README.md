@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 <h1 align="center"> Hello, I'm Christopher Lutchmidat 👨‍💻 </h1>
 <h3 align="center">  Tech Enthusiast | Web Developer </h3>
 <div align="center">
