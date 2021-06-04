@@ -12,11 +12,12 @@
 
 <h2> 👨‍💻 &nbsp;About Me</h2>
 
-- 🌱 &nbsp;I am a tech enthusiast
+- 🌱 &nbsp;I am a tech and programming addict
 - ✍️ &nbsp;A self learning front end developer
-- 🔭 &nbsp;Currently learning HTML & CSS
+- 🔭 &nbsp;Currently learning JavaScript
 - 🏋️‍♂️ &nbsp;Presently working with a few clients on exciting web development based projects
 - 📡 &nbsp;Seeking opportunities, I love to learn and contribute in any and every possible way
+- 💬 &nbsp;Ask me about: Tech, Troubleshooting, Fashion, History
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
