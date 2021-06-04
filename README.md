@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Christopher Lutchmidat 👨‍💻 </h1>
+<h1 align="center"> Hello, I'm Christopher Lutchmidat 👋 </h1>
 <h3 align="center">  Tech Enthusiast | Web Developer </h3>
 <div align="center">
 
@@ -28,21 +28,25 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Adobe](https://img.shields.io/badge/-Adobe-333333?style=flat&logo=adobe)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=82D305)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Apple](https://img.shields.io/badge/-Mac-333333?style=flat&logo=apple)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Google](https://img.shields.io/badge/-Google-333333?style=flat&logo=google)
+  ![Microsoft](https://img.shields.io/badge/-Microsoft-333333?style=flat&logo=microsoft-office)
 
 ---
 
 <h2> 📊 &nbsp;Profile Stats</h2>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=danger2123&hide=stars,issues&count_private=true&show_icons=true"/>
   </a>
@@ -51,6 +55,10 @@
   </a>
 
 ---
+
+  <div align="center">
+    Time Zone: UTC - 5 | <a href="https://www.buymeacoffee.com/webdevchris" alt="Buy Coffee">Buy Me a Coffee</a>
+  </div>
 
 <!-- Reserved -->
   <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
