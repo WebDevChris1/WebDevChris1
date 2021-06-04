@@ -4,7 +4,7 @@
 
 <h2>How To Reach Me</h2>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrislutchmidat@gmail.com)](mailto:chrislutchmidat@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/webdevchris1)](https://twitter.com/webdevchris1) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-lutchmidat-600b87213/)](https://www.linkedin.com/in/christopher-lutchmidat-600b87213) [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/b8Rw288S)](https://discord.gg/b8Rw288S)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrislutchmidat@gmail.com)](mailto:chrislutchmidat@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/webdevchris1)](https://twitter.com/webdevchris1) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-lutchmidat-600b87213/)](https://www.linkedin.com/in/christopher-lutchmidat-600b87213) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://webdevchris1.medium.com)](webdevchris1.medium.com) [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/b8Rw288S)](https://discord.gg/b8Rw288S)
 
 ---
 
