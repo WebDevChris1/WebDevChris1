@@ -1,6 +1,9 @@
 <h1 align="center"> Hello, I'm Christopher Lutchmidat 👋 </h1>
-<h3 align="center">  Tech Enthusiast | Web Developer </h3>
+<h3 align="center"> Tech Enthusist | Web Developer
+
 <div align="center">
+
+<br>
 
 <h2>How To Reach Me</h2>
 
@@ -61,5 +64,5 @@
 ---
 
   <div align="center">
-    Time Zone: UTC - 5 | <a href="https://www.buymeacoffee.com/webdevchris" alt="Buy Coffee">Buy Me a Coffee</a>
+    <a href="https://webdevchris1.hashnode.dev/">Blog </a> | Time Zone: UTC - 5 | <a href="https://www.buymeacoffee.com/webdevchris" alt="Buy Coffee">Buy Me a Beer</a>
   </div>
